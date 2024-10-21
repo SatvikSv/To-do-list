@@ -1,0 +1,28 @@
+/* Phone */
+
+@media (max-width: 600px) {
+    .container{
+        flex-direction: column;
+    }
+
+
+    .to-do-details{
+        width: 80vw;
+    }
+
+    .task-container{
+        width: 80vw;
+    }
+
+    .enter-task{
+        width: 50vw;
+    }
+
+    .enter-task-btn{
+        width: 30vw;
+    }
+
+    .task-item{
+        font-size: 5vw;
+    }
+}
